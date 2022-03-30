@@ -1,0 +1,68 @@
+h1 {
+	text-align: center;
+	color: darkblue;
+}
+
+p {
+	text-align-last: center;
+	margin: 1px 100px;
+}
+
+a:link {
+	color: red;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#tiles {
+	height: 200px;
+	position: absolute;
+	left: 20%;
+	right: 20%;
+	
+}
+
+#dog1 {
+	width: 400px;
+	height: 250px;
+
+}
+
+#dog2 {
+	width: 400px;
+	height: 250px;
+
+}
+
+#dog3 {
+	width: 400px;
+	height: 250px;
+
+}
+
+#dog4 {
+	width: 400px;
+	height: 250px;
+
+}
+
+#header {
+	width: 100%
+
+}
+
+#nav1 {
+	float: left;
+}
+
+#nav2 {
+	float: right;
+}
+
+#title {
+	clear: both;
+}
+
